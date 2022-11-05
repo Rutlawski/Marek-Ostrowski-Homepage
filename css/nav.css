@@ -1,0 +1,33 @@
+.navigation {
+    margin: 20px;
+    border: 2px solid black;
+    max-width: 250px;
+    background-color: rgb(205, 214, 234);
+    color: rgb(0, 0, 0);
+}
+
+.navigation__list {
+    text-decoration: none;
+    line-height: 23.5px;
+    list-style: none;
+    max-width: 200px;
+}
+
+.navigation__list--link {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: auto;
+}
+
+.navigation__list--link:hover {
+    color: rgb(138, 173, 230);
+}
+
+.navigation__list:visited {
+    color: black;
+}
+
+.navigation__list:focus {
+    outline: 2px solid currentColor;
+}

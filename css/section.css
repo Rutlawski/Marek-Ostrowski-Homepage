@@ -1,0 +1,88 @@
+.section__header {
+    padding: 2px;
+    margin: 20px;
+    text-align: center;
+    border: 5px inset rgb(16, 16, 136);
+    background-color: rgb(5, 5, 50);
+    color: bisque;
+}
+
+.section__caption {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.section__paragraph {
+    margin-left: 20px;
+    line-height: 21.5px;
+    max-width: 1000px;
+}
+
+.section__table {
+    border-collapse: collapse;
+    padding: 200px;
+    max-width: 1000px;
+    margin: 20px
+}
+
+.section__tableData {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.section__tableData:hover {
+ background-color: rgb(138, 138, 255);
+}
+
+.section__tableRow:hover {
+    background-color: rgb(138, 138, 255);
+   }
+
+.section__tableRow {
+    border: 2px solid black;
+    padding: 20px;
+        margin-left: 20px;
+}
+
+.section__tableHeader {
+    border: 2px solid black;
+    font-weight: bold;
+    background-color: rgb(5, 5, 50);
+    color: bisque;
+    padding: 20px;
+}
+
+.section__tableData--link {
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+}
+
+.section__tableData--link:visited {
+    color: black;
+}
+
+.section__tableData--link:hover {
+    color: rgb(22, 22, 156);
+}
+
+.section__tableData--green {
+    font-weight: bold;
+    color: rgb(0, 158, 69);
+    text-align: center;
+}
+
+.section__tableData--lightGreen {
+    font-weight: bold;
+    color: rgb(38, 41, 2);
+    text-align: center;
+}
+
+.section__tableData--yellow {
+    font-weight: bold;
+    color: rgb(126, 132, 58);
+    text-align: center;
+}

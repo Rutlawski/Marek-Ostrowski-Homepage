@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  ::after,
+  ::before {
+    box-sizing: inherit;
+  }
+
+.body {
+    background-color: rgb(193, 235, 235);
+    color: rgb(32, 29, 29);
+    font-family: 'Lato', sans-serif;
+  }
+
+  .js-darkBody {
+    background-color: rgb(18, 18, 52);
+    color: bisque;
+    font-family: 'Lato', sans-serif;
+  }
