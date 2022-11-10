@@ -1,5 +1,5 @@
-console.log("Witajcie, drodzy programiści!")
-console.log("Zapraszam do rozejrzenia się po tym kodzie i jakiegokolwiek feedbacku =)")
+console.log("Witajcie, drodzy programiści!");
+console.log("Zapraszam do rozejrzenia się po tym kodzie i jakiegokolwiek feedbacku =)");
 
 let buttonElement = document.querySelector(".js-button");
 let photoElement = document.querySelector(".js-photo");
@@ -21,9 +21,10 @@ darkButtonElement.addEventListener("click", () => {
     darkButtonElement.classList.toggle("js-lightButton");
 
     if (bodyElement.classList.contains("js-darkBody")) {
-        darkButtonElement.innerText = "Jasny Motyw"
+        darkButtonElement.innerText = "Jasny Motyw";
     } else {
-        darkButtonElement.innerText = "Ciemny Motyw"
+        darkButtonElement.innerText = "Ciemny Motyw";
     };
 }
 )
+
