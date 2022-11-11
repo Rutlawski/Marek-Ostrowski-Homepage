@@ -18,7 +18,7 @@
     border: 2px solid black;
 }
 
-.article__button {
+.js-button {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
@@ -29,12 +29,12 @@
     color: bisque;
 }
 
-.article__button:hover {
+.js-button:hover {
     background-color: rgb(22, 22, 92);
     cursor: pointer;
 }
 
-.article__button:active {
+.js-button:active {
     cursor: pointer;
     background-color: rgb(46, 46, 164);
 }
