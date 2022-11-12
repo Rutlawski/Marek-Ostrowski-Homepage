@@ -8,7 +8,7 @@ Hello everyone! My name is Marek and my job is currently a **software tester**, 
 Here, on GitHub I present all the projects I finished so far, during the course, and also create repositories and keep track of tools, languages and syllabus which I learnt so far.
 
 ### Demo:
-https://rutlawski.github.io/Marek-Ostrowski-Prezentacja/
+https://rutlawski.github.io/Marek-Ostrowski-Homepage/
 
 #### Tools and experience:
 - HTML - Basic knowledge / still learning
@@ -40,7 +40,7 @@ Hej wszystkim! Mam na imię Marek, z zawodu jestem **testerem oprogramowania**, 
 Na GitHubie zamieszczam póki co swoje próbne projekty, robione podczas kursu, jak i tworzę repozytorium i spis zagadnień, które już poznałem i narzędzi, których używam.
 
 ### Demo:
-https://rutlawski.github.io/Marek-Ostrowski-Prezentacja/
+https://rutlawski.github.io/Marek-Ostrowski-Homepage/
 
 #### Narzędzia i zagadnienia:
 - HTML - podstawowa wiedza
