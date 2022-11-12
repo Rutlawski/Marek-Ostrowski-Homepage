@@ -6,6 +6,9 @@ Hej wszystkim! Mam na imię Marek, z zawodu jestem **testerem oprogramowania**, 
 
 Na GitHubie zamieszczam póki co swoje próbne projekty, robione podczas kursu, jak i tworzę repozytorium i spis zagadnień, które już poznałem i narzędzi, których używam.
 
+### Demo:
+https://rutlawski.github.io/Marek-Ostrowski-Prezentacja/
+
 #### Narzędzia i zagadnienia:
 - HTML - podstawowa wiedza
 - CSS - podstawowa wiedza
