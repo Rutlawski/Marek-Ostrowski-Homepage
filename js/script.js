@@ -13,13 +13,10 @@
 
     const toggleBackground = () => {
         const bodyElement = document.querySelector(".js-body");
-        const darkBodyElement = document.querySelector(".js-darkBody");
-        const lightButtonElement = document.querySelector(".js-lightButton");
         const darkButtonElement = document.querySelector(".js-darkButton");
-        bodyElement.classList.toggle("js-darkBody");
-        darkButtonElement.classList.toggle("js-lightButton");
-
-        if (bodyElement.classList.contains("js-darkBody")) {
+        bodyElement.classList.toggle("body--dark");
+        darkButtonElement.classList.toggle("header__lightButton");
+        if (bodyElement.classList.contains("body--dark")) {
             darkButtonElement.innerText = "Jasny Motyw";
         } else {
             darkButtonElement.innerText = "Ciemny Motyw";

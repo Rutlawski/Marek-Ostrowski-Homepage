@@ -1,4 +1,4 @@
-.body__header {
+.header {
     padding: 2px;
     margin: 20px;
     text-align: center;
@@ -25,7 +25,7 @@
     background-color: rgb(46, 46, 164);
 }
 
-.js-lightButton {
+.header__lightButton {
     margin-left: 20px;
     border: 2px solid bisque;
     padding: 5px;
@@ -33,12 +33,12 @@
     color: rgb(5, 5, 50);
 }
 
-.js-lightButton:hover {
+.header__lightButton:hover {
     cursor: pointer;
     background-color: rgb(255, 255, 255);
 }
 
-.js-lightButton:active {
+.header__lightButton:active {
     cursor: pointer;
     background-color: rgb(175, 175, 175);
 }
