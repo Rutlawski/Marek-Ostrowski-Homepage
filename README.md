@@ -14,7 +14,7 @@ https://rutlawski.github.io/Marek-Ostrowski-Prezentacja/
 - HTML - Basic knowledge / still learning
 - CSS - (BEM, Flex) - Basic knowledge / Still learning
 - JS - Still learning
-- SQL - Basic methods (SELECT, CREATE, INSERT INTO, JOIN, UPDATE)
+- SQL - Basic knowledge of various methods (SELECT, CREATE, INSERT INTO, JOIN, UPDATE...)
 - Git (commits, push, pull, add) - Still learning
 - Postman - Basic knowledge (Methods, collections, variables, aut, basic test cases)
 - API - Basic knowledge
