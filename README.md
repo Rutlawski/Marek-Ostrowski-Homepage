@@ -3,7 +3,7 @@
 ## About me
 Hello everyone! My name is Marek and my job is currently a **software tester**, in my free time however I am learning *programming* with Javascript.
 
-![Marek Ostrowski](https://i.ibb.co/wMbjj1S/Zdj-cie.png)
+![Marek Ostrowski](https://i.ibb.co/9scDbj2/Zdj-cie.png)
 
 Here, on GitHub I present all the projects I finished so far, during the course, and also create repositories and keep track of tools, languages and syllabus which I learnt so far.
 
