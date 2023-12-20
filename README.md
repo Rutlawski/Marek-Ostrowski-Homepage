@@ -5,7 +5,7 @@ Hello everyone! My name is Marek and my job is currently a **software tester**, 
 
 ![Marek Ostrowski](https://i.ibb.co/9scDbj2/Zdj-cie.png)
 
-For 8 years I am a part of QA, being a manual mobile tester, web tester, QA Assisatance Engineer and a Test Lead. My experience so far covers **1 year of Web application testing (manual, API, performance tests), ~3 years of mobile (Android, iOS) manual testing, 1 year of mobile compliance testing (Android, iOS, Amazon) and 4 years of being a Project Lead**, looking over various testing teams and carrying 2-4 projects (please refer to my LinkedIn or CV for details).
+For 8 years I am a part of QA, being a manual mobile tester, web tester, QA Assistance Engineer and a Test Lead. My experience so far covers **1 year of Web application testing (manual, API, performance tests), ~3 years of mobile (Android, iOS) manual testing, 1 year of mobile compliance testing (Android, iOS, Amazon) and 4 years of being a Project Lead**, looking over various testing teams and carrying 2-4 projects (please refer to my LinkedIn or CV for details).
 
 Here, on GitHub I present all the projects I finished so far, which are a part of Automation Testing courses, my free time learning, as well as excersises I have done during a basic JavaScript programming course. Create repositories and keep track of tools, languages and syllabus which I learnt so far.
 
