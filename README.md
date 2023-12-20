@@ -32,7 +32,7 @@ Here, on GitHub I present all the projects I finished so far, which are a part o
 - Mantis (Issue creation and mantaince)- Advanced knowledge
 - Microsoft Office (Excel, Word, Outlook, Power Point) - Advanced knowledge - Used e.g. for creating various checklists, Test Cases, Retest and Regression Testing Scenarios,
   preparing documentation, daily communication, preparing presentations
-- Basic communication tools (MS Teams, Zoom, Skype)
+- Basic communication tools (MS Teams, Zoom, Skype, Slack)
 #### Other skills and knowledge:
 - ISTQB FL
 - Retests and Regression Testing
@@ -49,36 +49,3 @@ https://rutlawski.github.io/Marek-Ostrowski-Homepage/
 
 ##### My LinkedIn profile:
 [LinkedIn - Profile](https://www.linkedin.com/in/marek-ostrowski/)
-
-/
-
-## O mnie
-Hej wszystkim! Mam na imię Marek, z zawodu jestem **testerem oprogramowania**, a w wolnych chwilach uczę się *programowania* w JavaScripcie.
-
-Na GitHubie zamieszczam póki co swoje próbne projekty, robione podczas kursu, jak i tworzę repozytorium i spis zagadnień, które już poznałem i narzędzi, których używam.
-
-### Demo:
-https://rutlawski.github.io/Marek-Ostrowski-Homepage/
-
-#### Narzędzia i zagadnienia:
-- HTML - podstawowa wiedza
-- CSS - podstawowa wiedza
-- JS - nauka
-- SQL - podstawowa wiedza
-- Git - podstawowa wiedza
-- Postman - podstawowa wiedza
-- API - podstawowa wiedza
-- Metody API i kody statusu - podstawowa wiedza
-- Microsoft Excel, Microsoft Outlook, Microsoft Power Point - zaawansowana wiedza
-- Retesty i testy regresywne - zaawansowana wiedza
-- E2E testy, Smoke Testy - zaawansowana wiedza
-- ISTQB - znajomość sylabusa
-- Jira - zaawansowana wiedza
-- JQL - zaawansowana wiedza
-- Testrail, Testpad - zaawansowana wiedza
-- Mantis - zaawansowana wiedza
-
-**Pozdrawiam serdecznie wszystkich i zapraszam do zapoznania się z moimi projektami!**
-
-##### Mój LinkedIn:
-[LinkedIn - Profil](https://www.linkedin.com/in/marek-ostrowski/)
