@@ -30,8 +30,10 @@ Here, on GitHub I present all the projects I finished so far, which are a part o
 - Testrail, Testpad (Creating Test Suites, creating Test Cases, performing scripted testing)- Advance knowledge
 - Zephyr (Preparing earlier created Test Cases) - Basic knowledge
 - Mantis (Issue creation and mantaince)- Advanced knowledge
+- Trello (Issue creation and maintance) - Basic knowledge
 - Microsoft Office (Excel, Word, Outlook, Power Point) - Advanced knowledge - Used e.g. for creating various checklists, Test Cases, Retest and Regression Testing Scenarios,
   preparing documentation, daily communication, preparing presentations
+- Browserstack - Very basic knowledge around mobile emulation
 - Basic communication tools (MS Teams, Zoom, Skype, Slack)
 #### Other skills and knowledge:
 - ISTQB FL
