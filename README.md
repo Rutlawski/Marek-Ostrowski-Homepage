@@ -5,7 +5,7 @@ Hello everyone! My name is Marek and my job is currently a **software tester**, 
 
 ![Marek Ostrowski](https://i.ibb.co/9scDbj2/Zdj-cie.png)
 
-For 8 years I am a part of QA, being a manual mobile tester, web tester, QA Assistance Engineer and a Test Lead. My experience so far covers **1 year of Web application testing (manual, API, performance tests), ~3 years of mobile (Android, iOS) manual testing, 1 year of mobile compliance testing (Android, iOS, Amazon) and 4 years of being a Project Lead**, looking over various testing teams and carrying 2-4 projects (please refer to my LinkedIn or CV for details).
+For 8 years I am a part of QA, being a manual mobile tester, web tester, QA Assistance Engineer and a Test Lead. My experience so far covers **1 year of Web application testing (manual, API, performance tests), ~3 years of mobile (Android, iOS) manual testing, 1 year of mobile compliance testing (Android, iOS, Amazon), 1 year of Web and API testing and 4 years of being a Project Lead**, looking over various testing teams and carrying 2-4 projects (please refer to my LinkedIn or CV for details).
 
 Here, on GitHub I present all the projects I finished so far, which are a part of Automation Testing courses, my free time learning, as well as excersises I have done during a basic JavaScript programming course. Create repositories and keep track of tools, languages and syllabus which I learnt so far.
 
@@ -13,15 +13,15 @@ Here, on GitHub I present all the projects I finished so far, which are a part o
 #### Coding experience:
 - JavaScript - Basic knowledge (Automation Testing, Playwright, basics of programming)
 - TypeScript - Basic knowledge (Automation Testing, WebDriverIO framework)
-- Java - Basic knowledge (basic of programming)
+- Java - Basic knowledge (Automation Testing, Selenium, TestNG, basic of programming)
 - HTML - Basic knowledge / still learning
 - CSS - (BEM, Flex) - Basic knowledge / Still learning
 - SQL - Basic knowledge of various methods (SELECT, CREATE, INSERT INTO, JOIN, UPDATE...)
 - JQL - Advanced knowledge over creating Jira filters, dashboards, moving through Jira
 #### Tools knowledge:
-- Git (commits, push, pull, add) - Basic knowledge, using Git as part of various courses and training
-- Visual Studio Code - Automation Testing, JavaScript, TypeScript, WebDriverIO, Git extensions
-- IntelliJ - basics of Java programming
+- Git (commits, push, pull, add) - Basic knowledge, using GitHub and GitLab, including CI/CL processes
+- Visual Studio Code - Automation Testing, JavaScript, TypeScript, WebDriverIO, Playwright, Git extensions
+- IntelliJ - Automation Testing, Selenium, TestNG, basics of Java programming
 - Postman and API testing - Basic knowledge, used both in work and privately while learning (Methods, collections, variables, aut, basic test cases)
 - JMeter - Basic knowledge - Used for performance testing
 - Jira (issue creation, backlog, JQL, filter and dashboard creation, Example Mapping and Test Scenario creation) - Advanced knowledge, used on many projects
